@@ -38,7 +38,7 @@ const useStyles = makeStyles((theme) => ({
   },
   goDown: {
     color: "#5AFF3D",
-    fontSize:'3.5rem'
+    fontSize:'3.5rem',
   },
 }));
 const Header = () => {
